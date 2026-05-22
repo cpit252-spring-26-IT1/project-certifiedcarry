@@ -190,6 +190,12 @@ CertifiedCarry is a full-stack React and Spring Boot system with clear separatio
 
 ![Admin Panel](docs/screenshots/admin-panel.png)
 
+## Dockerized Local Run
+
+As an additional deployment and grading convenience, the project includes Docker configuration so the frontend, Spring Boot backend, and PostgreSQL database can be started together with Docker Compose. This makes it possible to run the full local stack with one command instead of manually starting each service.
+
+![Docker Compose Running](docs/screenshots/docker-compose-running.png)
+
 ## Generative AI Disclosure
 
 Generative AI tools were used as a limited development assistant, primarily to support backend implementation, debugging, testing, and code organization. The project idea, requirements, feature decisions, implementation review, and final submission responsibility remain my own.
