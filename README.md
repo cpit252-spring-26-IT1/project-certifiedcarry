@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="frontend/src/assets/images/logo-darkmode.svg" alt="CertifiedCarry" width="220" />
-</p>
+![CertifiedCarry](frontend/src/assets/images/logo-darkmode.svg)
 
-<h1 align="center">CertifiedCarry</h1>
+# CertifiedCarry
 
-<p align="center">
-  A full-stack esports talent discovery platform built with React, Spring Boot, PostgreSQL, and Firebase.
-</p>
+A full-stack esports talent discovery platform built with React, Spring Boot, PostgreSQL, and Firebase.
 
 ## Overview
 
@@ -171,3 +167,29 @@ The codebase is organized to keep responsibilities clear:
 ## Summary
 
 CertifiedCarry is a full-stack React and Spring Boot system with clear separation between UI orchestration, client service logic, HTTP controllers, backend business services, and persistence.
+
+## Application Screenshots
+
+### Landing Page - Arabic Dark Mode
+
+![Landing Page Arabic Dark Mode](docs/screenshots/landing-arabic-dark.png)
+
+### Landing Page - English Light Mode
+
+![Landing Page English Light Mode](docs/screenshots/landing-english-light.png)
+
+### Player Home
+
+![Player Home](docs/screenshots/player-home.png)
+
+### Recruiter Home
+
+![Recruiter Home](docs/screenshots/recruiter-home.png)
+
+### Admin Panel
+
+![Admin Panel](docs/screenshots/admin-panel.png)
+
+## Generative AI Disclosure
+
+Generative AI tools were used as a limited development assistant, primarily to support backend implementation, debugging, testing, and code organization. The project idea, requirements, feature decisions, implementation review, and final submission responsibility remain my own.
